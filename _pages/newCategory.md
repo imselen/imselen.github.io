@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 회사소개
-image: 12.jpg
+title: new
+image: 14.jpg
 ---
-about page입니다.
-자기소개 페이지
+카테고리 추가 확인 페이지입니다.
+
 ***
 
 #### Austin scenester...
