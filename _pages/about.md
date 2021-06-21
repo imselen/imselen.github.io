@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: 12.jpg
+image: 21.jpg
 ---
 about page입니다.
 자기소개 페이지

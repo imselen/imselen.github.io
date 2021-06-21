@@ -2,7 +2,7 @@
 layout: post
 title:  Organization tip of the day
 date:   2017-10-27 10:12:27 +0300
-img: 7.jpg
+img: 22.jpg
 tags: [Tips, Creative]
 ---
 Neutra cornhole fanny pack brooklyn dreamcatcher hashtag bitters pickled YOLO photo booth deep v single-origin coffee portland cloud bread. Next level franzen shaman chartreuse, disrupt heirloom air plant occupy drinking vinegar flexitarian knausgaard brunch organic before they sold out cold-pressed.

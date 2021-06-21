@@ -89,20 +89,12 @@ layout: default
         <h4>{{ site.author-name }}</h4>
         <p class="post-author-bio">{{ site.about-author }}</p>
         <div class="post-author-meta">
-          {% if site.twitter %}
-          <a href="{{ site.twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-          {% else %}
-          {% endif %}
           {% if site.facebook %}
           <a href="{{ site.facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
           {% else %}
           {% endif %}
           {% if site.instagram %}
           <a href="{{ site.instagram }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-          {% else %}
-          {% endif %}
-          {% if site.pinterest %}
-          <a href="{{ site.pinterest }}" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
           {% else %}
           {% endif %}
           {% if site.author-email %}
