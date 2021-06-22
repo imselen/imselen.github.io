@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  new day
+title:  안녕하세요
 date:   2021-06-21 17:11:50 +0300
-img: 23.jpg
+img: 22.jpg
 tags: [Tour, Music]
 ---
 Literally lomo blue bottle pabst retro snackwave brooklyn taiyaki bitters. Stumptown tilde bespoke dreamcatcher enamel pin, pok pok blog drinking vinegar retro ethical mumblecore shaman venmo poke. Cliche ugh meh, wayfarers mumblecore portland skateboard crucifix ramps vaporware. Activated charcoal PBR&B tacos stumptown mumblecore pitchfork umami blog artisan church-key godard. Shabby chic meh lyft, tilde pork belly echo park +1 tote bag tofu. Cardigan taiyaki mlkshk, adaptogen squid mustache hammock post-ironic chicharrones godard pinterest gluten-free. Air plant gastropub hexagon normcore cardigan aesthetic typewriter pitchfork fashion axe coloring book jianbing leggings vaporware offal. Bushwick palo santo leggings four dollar toast truffaut gluten-free. Fashion axe lo-fi vexillologist kinfolk. Authentic sriracha affogato, tofu polaroid enamel pin poke. Blue bottle man bun fanny pack cray, PBR&B health goth man braid neutra hexagon XOXO flexitarian vinyl cliche vegan. Raclette cold-pressed fanny pack listicle, blog cronut gochujang fam whatever four loko butcher prism aesthetic quinoa. Raclette thundercats gluten-free tbh, ethical adaptogen keffiyeh fam. Swag distillery pop-up offal. Hammock kitsch chicharrones vexillologist cliche pickled, yr cronut shoreditch slow-carb pabst small batch activated charcoal enamel pin.
