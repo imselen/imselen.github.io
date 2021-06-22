@@ -2,8 +2,8 @@
 layout: post
 title:  Where I seek inspiration
 date:   2017-10-27 10:11:50 +0300
-img: 8.jpg
-
+img: 22.jpg
+tags: [Inspiration, Music, Tips, Guitar]
 ---
 
 ### You need a little dummy text
