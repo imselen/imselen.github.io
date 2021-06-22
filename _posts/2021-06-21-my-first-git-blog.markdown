@@ -2,7 +2,6 @@
 layout: post
 title:  "첫 포스트?"
 author: selen
-
 image: 20.jpg
 
 ---
