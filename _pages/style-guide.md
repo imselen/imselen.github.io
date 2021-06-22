@@ -64,7 +64,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td><td>Row:6 Cell:4</td><td>Row:6 Cell:5</td></tr>
 </table>
 
-***
+
 
 ### Quotes
 
