@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Where I seek inspiration
+title:  둘째날 
 date:   2021-06-22 10:11:50 +0300
 img: 22.jpg
 tags: [Inspiration, Music, Tips, Guitar]
