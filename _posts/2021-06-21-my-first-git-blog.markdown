@@ -2,7 +2,7 @@
 layout: page
 image: 17.jpg
 ---
-일지 등록
+오늘 한 일 
 
 ***
 
@@ -18,7 +18,7 @@ image: 17.jpg
 
 
 <table>
-  <tr><th>일일 업무 일지 </th></tr>
+  <tr><th></th></tr>
   <tr><td>문서번호 1 </td><td>Row:1 Cell:2</td><td>Row:1 Cell:3</td><td>Row:1 Cell:4</td><td>Row:1 Cell:5</td></tr>
   <tr><td>Row:2 Cell:1</td><td>Row:2 Cell:2</td><td>Row:2 Cell:3</td><td>Row:2 Cell:4</td><td>Row:2 Cell:5</td></tr>
   <tr><td>Row:3 Cell:1</td><td>Row:3 Cell:2</td><td>Row:3 Cell:3</td><td>Row:3 Cell:4</td><td>Row:3 Cell:5</td></tr>
