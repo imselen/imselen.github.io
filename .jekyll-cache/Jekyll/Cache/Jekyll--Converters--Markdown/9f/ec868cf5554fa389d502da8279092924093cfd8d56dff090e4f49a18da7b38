@@ -1,24 +1,14 @@
----
-layout: page
-image: 17.jpg
----
-일지 등록
+I"�<p>카테고리 추가 확인 페이지입니다.</p>
 
-***
+<hr />
 
-#### Austin scenester...
-<small>금일 실시한 업무 내용 및 진행상황</small>
-
-근태현황 : 출근
-출근시간 : 8시 57분
-퇴근 시간 : 
-지각 / 조퇴 : 없음
-
-
+<h4 id="austin-scenester">Austin scenester…</h4>
+<p><small>오늘 일정</small>
+** ㅇ</p>
 
 <table>
-  <tr><th>일일 업무 일지 </th></tr>
-  <tr><td>문서번호 1 </td><td>Row:1 Cell:2</td><td>Row:1 Cell:3</td><td>Row:1 Cell:4</td><td>Row:1 Cell:5</td></tr>
+  <tr><th>일정 </th></tr>
+  <tr><td>Row:1 Cell:1</td><td>Row:1 Cell:2</td><td>Row:1 Cell:3</td><td>Row:1 Cell:4</td><td>Row:1 Cell:5</td></tr>
   <tr><td>Row:2 Cell:1</td><td>Row:2 Cell:2</td><td>Row:2 Cell:3</td><td>Row:2 Cell:4</td><td>Row:2 Cell:5</td></tr>
   <tr><td>Row:3 Cell:1</td><td>Row:3 Cell:2</td><td>Row:3 Cell:3</td><td>Row:3 Cell:4</td><td>Row:3 Cell:5</td></tr>
   <tr><td>Row:4 Cell:1</td><td>Row:4 Cell:2</td><td>Row:4 Cell:3</td><td>Row:4 Cell:4</td><td>Row:4 Cell:5</td></tr>
@@ -26,5 +16,6 @@ image: 17.jpg
   <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td><td>Row:6 Cell:4</td><td>Row:6 Cell:5</td></tr>
 </table>
 
-*LOREM IPSUM*
+<p><em>LOREM IPSUM</em></p>
 
+:ET
