@@ -1,6 +1,5 @@
 ---
 layout: post
-author: selen
 image: 20.jpg
 hidden: false 
 ---
