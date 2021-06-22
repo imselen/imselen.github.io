@@ -1,6 +1,6 @@
 ---
 layout: post
-image: 20.jpg
+img: 20.jpg
 
 ---
 
@@ -17,6 +17,7 @@ image: 20.jpg
 *저는 셀렌입니다.*
 
 
+![Flower and water]({{site.baseurl}}/images/pages/13.jpg)
 
 
 
