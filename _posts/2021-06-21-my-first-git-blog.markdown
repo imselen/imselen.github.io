@@ -1,7 +1,7 @@
 ---
 layout: post
 image: 20.jpg
-hidden: false 
+
 ---
 
 
