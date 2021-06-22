@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "첫 포스트?"
+
 author: selen
-image: C:\Users\PC2\IdeaProjects\imselen.github.io\images\pages\20.jpg
+image: 20.jpg
 featured: true
 hidden: true 
 ---
