@@ -3,7 +3,7 @@ layout: post
 title:  "첫 포스트?"
 author: selen
 categories: [ Jekyll ]
-image: assets/images/11.jpg
+image: 22.jpg
 featured: true
 hidden: true
 ---
@@ -19,4 +19,18 @@ hidden: true
 
 
 *저는 셀렌입니다.*
+
+
+
+***
+
+#### Austin scenester...
+<small>금일 실시한 업무 내용 및 진행상황</small>
+
+
+![Flower and water]({{site.baseurl}}/images/pages/13.jpg)
+
+
+
+*LOREM IPSUM*
 
