@@ -15,7 +15,7 @@ hero-description: CREATE MY LIFE
 
 # Author - Creator
 author-name: Selen
-author-image: 22.jpg
+author-image: 11.jpg
 about-author: my name is selen. This is my first git blog!
 author-email: volu7070@gmail.com
 
@@ -24,7 +24,7 @@ author-email: volu7070@gmail.com
 authors:
   Natali_Braxton:
     author-name: Selen
-    author-image: 22.jpg # 이미지 사용할거라면 repo의 특정 위치에 등록하고 주소를 기재해준다.
+    author-image: 11.jpg # 이미지 사용할거라면 repo의 특정 위치에 등록하고 주소를 기재해준다.
     about-author: My name is selen. This is my first git blog!
     author-email: volu7070@gmail.com
 
