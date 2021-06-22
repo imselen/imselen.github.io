@@ -1,7 +1,5 @@
 ---
 layout: post
-title:  "첫 포스트?"
-author: selen
 image: 20.jpg
 
 ---
@@ -20,7 +18,6 @@ image: 20.jpg
 
 
 
-![Flower and water]({{site.baseurl}}/images/pages/13.jpg)
 
 
 *LOREM IPSUM*
