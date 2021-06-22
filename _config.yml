@@ -10,8 +10,8 @@ url: "https://imselen.github.io/"
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to BETA
-hero-description: CREATE MY LIFE
+hero-title: Line
+hero-description: Line
 
 # Author - Creator
 author-name: Selen
@@ -28,12 +28,9 @@ authors:
     about-author: My name is selen. This is my first git blog!
     author-email: volu7070@gmail.com
 
-# Social Media Links (Links are located in hero and footer)
-facebook: https://facebook.com/
-youtube: https://www.youtube.com/
 
 # Contact Form Settings
-contact-subtitle: "CONTACT !!"
+contact-subtitle: "연락이 필요할 때 메일 주세요"
 
 
 # Google Analytics
