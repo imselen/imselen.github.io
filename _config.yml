@@ -51,10 +51,15 @@ paginate: 6 #원래 숫자 : 9
 paginate_path: "/page/:num"
 
 # Pages path
+# 페이지 경로 고정지정
 defaults:
+   # posts 쪽과 pages 쪽으로 나눠짐
+   # _pages
   - scope:
       path: '_pages'
     values:
+      comments : true
+      share : ture
       permalink: /:basename:output_ext
 
 plugins:
