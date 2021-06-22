@@ -2,7 +2,6 @@
 layout: post
 title:  "첫 포스트?"
 author: selen
-categories: [ Jekyll ]
 image: images/pages/20.jpg
 featured: true
 hidden: true 
