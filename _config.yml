@@ -3,8 +3,9 @@
 title: "Selen"
 #블로그 설명
 description: "개인 블로그 "
-#blog 서브 경로사이트 작성 
-baseurl: "" # the subpath of your site, e.g. 
+# "https://imselen.github.io/baseurl/페이지경로.html"
+# like 카테고리 나누듯이. 지금은 적용하지 않았음
+baseurl: "" # the subpath of your site, e.g.
 #블로그 메인 사이트 
 url: "https://imselen.github.io/"
 
