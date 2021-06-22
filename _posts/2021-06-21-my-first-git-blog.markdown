@@ -3,7 +3,7 @@ layout: post
 author: selen
 image: 20.jpg
 featured: true
-hidden: true 
+hidden: false 
 ---
 
 
