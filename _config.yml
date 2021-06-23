@@ -3,9 +3,10 @@
 title: "Selen"
 #블로그 설명
 description: "개인 블로그 "
-# "https://imselen.github.io/baseurl/페이지경로.html"
-# like 카테고리 나누듯이. 지금은 적용하지 않았음
-baseurl: "" # the subpath of your site, e.g.
+
+  # 현재 테마는 다른 주소로 되어있을 수도 있어 바로 적용을 확인하면 에러가 발생할 수도 있다.
+  # 따라서 baseurl은 ““으로 url은 “[내블로그주소]“로 변경
+baseurl: ""
 #블로그 메인 사이트 
 url: "https://imselen.github.io/"
 
