@@ -69,16 +69,12 @@ layout: default
           <a href="{{ author.author-instagram }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
           {% else %}
           {% endif %}
-          {% if author.author-pinterest %}
-          <a href="{{ author.author-pinterest }}" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-          {% else %}
-          {% endif %}
           {% if author.author-email %}
           <a href="mailto:{{ author.author-email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
           {% else %}
           {% endif %}
         </div>
-      </div>ㄴ
+      </div>
       {% else %}
       <div class="post-author-image">
         <a style="background-image: url({{"/images/" | prepend: site.baseurl | append: site.author-image}})">
@@ -115,9 +111,13 @@ layout: default
       {% endif %}
     </div>
 
-    {% if site.disqus-identifier %}
-      {% include disqus-comments.html %}
-    {% endif %}
-  </article> <!-- /.post -->
+    {%- if site.disqus_shortname -%}
+    <div class="comments">
+      {%- include blog_post_comments.html -%}
+    </div>
+    {%- endif -%}
 
-</div> <!-- /.content-box -->
+    <!-- Incomment incase you want to use Disqus
+        <div id="disqus_thread"></div>
+
+
