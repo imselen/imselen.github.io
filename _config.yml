@@ -36,14 +36,14 @@ contact-subtitle: "연락이 필요할 때 메일 주세요"
 
 
 # Google Analytics
-# 방문자수 집계?  할 때 쓰라는건지?
-google-analytics: # Add your identifier. For example UA-99631805-1.
+# 구글 측정 id 입력
+google-analytics: G-MVD4XJGH30 # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: imselen.github.io # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
