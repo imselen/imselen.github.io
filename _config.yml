@@ -4,8 +4,8 @@ title: "Selen"
 #블로그 설명
 description: "개인 블로그 "
 
-  # 현재 테마는 다른 주소로 되어있을 수도 있어 바로 적용을 확인하면 에러가 발생할 수도 있다.
-  # 따라서 baseurl은 ““으로 url은 “[내블로그주소]“로 변경
+  #현재 테마는 다른 주소로 되어있을 수도 있어 바로 적용을 확인하면 에러가 발생할 수도 있다.
+  # 따라서 baseurl은 ““으로 url은 “[내블로그주소]“로 변경해주어야 한다.
 baseurl: ""
 #블로그 메인 사이트 
 url: "https://imselen.github.io/"
@@ -36,14 +36,14 @@ contact-subtitle: "연락이 필요할 때 메일 주세요"
 
 
 # Google Analytics
-# 구글 측정 id 입력
-google-analytics: G-MVD4XJGH30 # Add your identifier. For example UA-99631805-1.
+# 방문자수 집계?  할 때 쓰라는건지?
+google-analytics: # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Comment Section (Disqus)
-disqus-identifier: imselen.github.io # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
@@ -59,6 +59,7 @@ defaults:
   - scope:
       path: '_pages'
     values:
+      comments : true
       share : ture
       permalink: /:basename:output_ext
 
