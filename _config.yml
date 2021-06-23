@@ -43,7 +43,7 @@ google-analytics: G-MVD4XJGH30 # Add your identifier. For example UA-99631805-1.
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Comment Section (Disqus)
-disqus_shortname: imselen.github.io # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: imselen.github.io # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
@@ -59,7 +59,6 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      comments : true
       share : ture
       permalink: /:basename:output_ext
 
