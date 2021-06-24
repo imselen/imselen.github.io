@@ -60,15 +60,6 @@
   }
 }
 
-.c-newsletter-email {
-  width: 70%;
-  height: 60px;
-  font-size: 14px;
-  padding: 10px 15px;
-  font-weight: 700;
-  border: 1px solid rgba(120, 120, 120, 0.19);
-  outline: none;
-}
 
 .newsletter-button {
   display: inline-block;
@@ -94,19 +85,7 @@
   .info-social, .info-newsletter {
     width: 100%;
   }
-}
 
-@media screen and (max-width: 720px) {
-  .info-social-list li a, .info-social-list li span {
-    font-size: 18px;
-  }
-  .c-newsletter-email {
-    height: 50px;
-  }
-  .newsletter-button {
-    height: 50px;
-    padding: 15px 0;
-  }
 }
 
 @media only screen and (max-width: 480px) {
