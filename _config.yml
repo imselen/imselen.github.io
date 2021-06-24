@@ -26,7 +26,7 @@ author-email: volu7070@gmail.com
 authors:
   Natali_Braxton:
     author-name: Selen
-    author-image: 11.jpg # 이미지 사용할거라면 repo의 특정 위치에 등록하고 주소를 기재해준다.
+    author-image: 11.jpg # gulpfile.js에서 경로 확인
     about-author: My name is selen. This is my first git blog!
     author-email: volu7070@gmail.com
 
@@ -36,14 +36,13 @@ contact-subtitle: "연락이 필요할 때 메일 주세요"
 
 
 # Google Analytics
-# 방문자수 집계?  할 때 쓰라는건지?
-google-analytics:  # Add your identifier. For example UA-99631805-1.
+# 구글 애널리틱스 측정아이디 설정
+google-analytics: G-MVD4XJGH30 # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Comment Section (Disqus)
-
 # Add your shortname for Disqus Comment.
 disqus-identifier: https-imselen-github-io-1 #disqus홈페이지에서 사이트 등록 시 생성
 comments : true # 코멘트 허락 + 댓글 등록 확인 완료
@@ -51,7 +50,7 @@ comments : true # 코멘트 허락 + 댓글 등록 확인 완료
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 6 #원래 숫자 : 9
+paginate: 3 #원래 숫자 : 9
 paginate_path: "/page/:num"
 
 # Pages path
