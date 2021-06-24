@@ -1,6 +1,6 @@
 ---
 layout: page
-title: new
+title: 깃허브io설정하는법
 image: 14.jpg
 ---
 카테고리 추가 
