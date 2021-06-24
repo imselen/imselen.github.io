@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 깃허브io설정하는법
-image: 14.jpg
+title: HOW TO USE github.io?
+image: ect/26.jpg
 ---
 
 
