@@ -65,6 +65,10 @@ defaults:
       comments : true
       share : ture
       permalink: /:basename:output_ext
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 
 plugins:
   - jekyll-paginate
