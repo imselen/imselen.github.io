@@ -1928,7 +1928,7 @@ table tr:hover {
 
 .form .form-group .form-input:focus,
 .form .form-group .form-textarea:focus {
-  border: 2px solid rgba(0, 120, 217, 0.3);
+  border: 2px solid rgba(238 ,180 ,180);
 }
 
 .form .form-group .form-btn {
@@ -1940,7 +1940,7 @@ table tr:hover {
 }
 
 .form .form-group .form-btn:hover {
-  background-color: #004e8d;
+  background-color: #EEB4B4;
 }
 
 @media screen and (max-width: 1100px) {
@@ -1977,7 +1977,7 @@ table tr:hover {
     right: -250px;
     bottom: 0;
     left: auto;
-    background-color: rgba(0, 120, 217, 0.8);
+    background-color: rgba(238, 180, 180);
     overflow-y: auto;
     z-index: 10;
     -webkit-transition: right 0.35s cubic-bezier(0.565, 1.65, 0.765, 0.9);
@@ -2013,7 +2013,7 @@ table tr:hover {
   }
 
   .site-nav a:hover {
-    background-color: rgba(0, 92, 166, 0.8);
+    background-color: rgba(238, 180, 180);
     color: #ffffff;
   }
 
