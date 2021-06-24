@@ -6,6 +6,16 @@ image: ect/26.jpg
 
 
 #### 깃허브 io 설정 시작
+
+### Video
+
+#### Youtube
+
+<iframe src="https://www.youtube.com/watch?v=ObM4K691Erk&list=PLzZFnlM-XbkQEdNbzUYNSFjVVUAwzoU5A&t=1s" frameborder="0" allowfullscreen></iframe>
+
+
+
+
 적용 참고 :
 
 GitHub 블로그 기본 설정하기 - 취미로 코딩하는 개발자 (devinlife.com)
@@ -91,13 +101,6 @@ GitHub 블로그 기본 설정하기 - 취미로 코딩하는 개발자 (devinli
 ![2]({{site.baseurl}}/images/pages/set_git_io/2.png)
 
 
-
-
-### Video
-
-#### Youtube
-
-<iframe src="https://www.youtube.com/watch?v=ObM4K691Erk&list=PLzZFnlM-XbkQEdNbzUYNSFjVVUAwzoU5A&t=1s" frameborder="0" allowfullscreen></iframe>
 
 
 
