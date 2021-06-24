@@ -3,11 +3,9 @@ layout: page
 title: 깃허브io설정하는법
 image: 14.jpg
 ---
-카테고리 추가 
 
-***
 
-#### YOU-TUBE
+#### 깃허브 io 설정 시작
 적용 참고 :
 
 GitHub 블로그 기본 설정하기 - 취미로 코딩하는 개발자 (devinlife.com)
