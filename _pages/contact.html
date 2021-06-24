@@ -3,13 +3,25 @@ layout: page
 title: Contact
 image: 20.jpg
 ---
+<head>
+
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css"
+        integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5"
+        crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+</head>
+
+
+
 <!-- _config_yml이랑 관련 O-->
 {% if site.contact-subtitle %}
 <h5 class="contact-subtitle">{{ site.contact-subtitle }}</h5>
 <hr>
 {% else %}
 {% endif %}
-<form method="POST" data-email = "volu7070@gmail.com" class="gform"
+<form method="POST" data-email = "volu7070@gmail.com" class="form"
       action="https://script.google.com/macros/s/AKfycbwx_wGOd2AI2t5Tht1oqzbofkyKB8SBs5pTHXfn2HJqN53ToEE/exec">
   <div class="form-group">
     <label for="form-name">Your Name (Required)</label>
@@ -32,18 +44,16 @@ image: 20.jpg
     <button type="submit" class="form-btn btn btn-big">Send</button>
   </div>
 
-  <!--ajax이용해 양식 제출 : json 형식으로 출력 x-->
+  <!-- ** ajax이용해 양식 제출 : json 형식으로 출력 x-->
   <script data-cfasync="false" type="text/javascript"
           src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
 
-  <!--감사메세지 출력 -->
-  <div style="display:none" class="thankyou_message">
+  <!-- ** 폼 send 후 감사메세지 출력 , 새로고침 없음-->
+  <div style="display:none" class="thankyou_message" >
     <!-- You can customize the thankyou message by editing the code below -->
     <h2><em>Thanks</em> for contacting us! We will get back to you soon!
     </h2>
   </div>
-
-
 </form> <!-- /.form -->
 
 
