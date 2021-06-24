@@ -88,7 +88,7 @@ GitHub 블로그 기본 설정하기 - 취미로 코딩하는 개발자 (devinli
 - img : 지킬테마마다 다른듯(img / or image)  어느 폴더 아래있는지 확인 후 경로 작성하는걸 추천(여기 테마는 안그래도 적용됨)
 
 
-![1]({{site.baseurl}}/images/pages/set_git_io/2.png)
+![2]({{site.baseurl}}/images/pages/set_git_io/2.png)
 
 
 
