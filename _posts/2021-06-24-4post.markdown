@@ -1,0 +1,14 @@
+---
+layout: post
+title:  넷째날 두번째 포스트 
+date:   2021-06-24 10:11:50 +0300
+img: ect/26.jpg
+comments: true
+hidden : false
+
+---
+**Hello world**
+
+
+
+
