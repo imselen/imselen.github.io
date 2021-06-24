@@ -50,7 +50,7 @@ comments : true # 코멘트 허락 + 댓글 등록 확인 완료
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 3 #원래 숫자 : 9
+paginate: 9 #원래 숫자 : 9
 paginate_path: "/page/:num"
 
 # Pages path
