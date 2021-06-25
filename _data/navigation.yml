@@ -1,7 +1,7 @@
 main:
   - title: "contact"
     url: /contact.html/
-  - title: "tag"
-    url: /tags/
+  - title: "github"
+    url: /github.md/
   - title: "Category"
     url: /categories/
