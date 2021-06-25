@@ -3,13 +3,13 @@ layout: page
 title: Style Guide
 image: 14.jpg
 ---
-
-
+***
 
 ### Video
 
 #### Youtube
-<embed width="500px" height="500px" src="https://youtu.be/8Q99GeMjx_0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></embed>
+
+<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
 
 
 A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
@@ -106,9 +106,3 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ![]({{site.baseurl}}/images/15.jpg)
 
-***
-
-### Video
-
-#### Youtube
-<embed width="500px" height="500px" src="https://youtu.be/8Q99GeMjx_0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></embed>
