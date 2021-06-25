@@ -10,22 +10,6 @@ baseurl: ""
 #블로그 메인 사이트 
 url: "https://imselen.github.io/"
 
-urls:
-  - text: About
-    url: /about
-  - text: CONTACT
-    url: /contact
-  - text: STYLE GUIDE
-    url: /style-guide
-  - text: Shop
-    url : /shop
-  - text: Contact Me
-    url : /contact
-  - text: Styleguide
-    url: /styleguide
-  - text: Get Started
-    url: /https://aboneu.tistory.com/46
-
 
 # Banner Section
 hero: 28.jpg

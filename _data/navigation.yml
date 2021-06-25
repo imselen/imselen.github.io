@@ -1,0 +1,7 @@
+main:
+  - title: "contact"
+    url: /contact.html/
+  - title: "tag"
+    url: /tags/
+  - title: "Category"
+    url: /categories/
