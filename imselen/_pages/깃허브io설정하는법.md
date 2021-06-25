@@ -5,17 +5,6 @@ image: ect/26.jpg
 ---
 
 
-### Video
-
-#### Youtube
-<embed width="500px" height="500px" src="https://youtu.be/8Q99GeMjx_0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></embed>
-
-
-<iframe src="https://www.youtube.com/watch?v=ObM4K691Erk&list=PLzZFnlM-XbkQEdNbzUYNSFjVVUAwzoU5A&t=1s" frameborder="0" allowfullscreen></iframe>
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
-
-
 
 적용 참고 :
 
