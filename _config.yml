@@ -8,7 +8,7 @@ description: "개인 블로그 "
   # 따라서 baseurl은 ““으로 url은 “[내블로그주소]“로 변경해주어야 한다.
 baseurl: ""
 #블로그 메인 사이트 
-url: "https://imselen.github.io/"
+url: "https://imselen.github.io"
 
 
 # Banner Section
